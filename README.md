@@ -22,7 +22,7 @@ Consumer complaints about financial products—incorrect credit reporting, debt 
 5. Show deadline alerts, overdue complaints, and company-level unresolved patterns on a live dashboard.
 
 ### Data Source
-Complaint Tracking and Analytics Dashboard Dataset, Kaggle: https://www.kaggle.com/datasets/chinmayprakash12/complaint-tracking-and-analytics-dashboard-dataset (100,000 complaint records, 34 MB CSV, English, anonymized, educational licence)
+Complaint Tracking and Analytics Dashboard Dataset, Kaggle: https://www.kaggle.com/datasets/chinmayprakash12/complaint-tracking-and-analytics-dashboard-dataset
 
 ### Innovation
 **User interface + Smart automation:** Oracle APEX/Streamlit dashboard connected live to the Oracle database, showing complaints by deadline urgency, overdue complaint queues, and company-level unresolved complaint patterns. A DBMS_SCHEDULER nightly job runs `sp_flag_approaching_deadlines` and `sp_company_pattern_report`, escalating at-risk complaints and refreshing the pattern table automatically.
