@@ -39,4 +39,14 @@ COMPANIES, PRODUCT_CATEGORIES, ISSUE_TYPES, COMPLAINTS, RESOLUTIONS, DEADLINE_AL
 - **Exceptions:** `e_no_resolution_recorded`, `e_invalid_resolution_date`
 
 ### References
-See `docs/research/research_log.md` (APA references to be added).
+ChinmayPrakash. (2025). Complaint Tracking and Analytics Dashboard Dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/chinmayprakash12/complaint-tracking-and-analytics-dashboard-dataset 
+
+Consumer Financial Protection Bureau. (2025). 2024 Consumer Response Annual Report. https://www.consumerfinance.gov/data-research/research-reports/2024-consumer-response-annual-report/ 
+
+Consumer Financial Protection Bureau. (2026). How we share complaint data. https://www.consumerfinance.gov/complaint/data-use/ 
+
+Oracle. (2026). Oracle Database PL/SQL Packages and Types Reference, 19c. https://docs.oracle.com/en/database/oracle/oracle-database/19/arpls/index.html 
+
+Oracle. (2026). CREATE TRIGGER. In Oracle Database SQL Language Reference, 19c. https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/CREATE-TRIGGER.html 
+
+Akingbade, L. O. (2025). Effective utilization and operation of an online complaint management system for customer satisfaction and low-price supermarkets in Lagos, Nigeria. GVU Journal of Science, Health and Technology, 10(1), 176–180. https://zenodo.org/records/16886481 
